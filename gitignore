@@ -1,0 +1,11 @@
+# Ignore all PNG files
+*.png
+
+# Ignore all ZIP files
+*.zip
+
+# Ignore common cache folders
+__pycache__/
+.cache/
+*.cache/
+
